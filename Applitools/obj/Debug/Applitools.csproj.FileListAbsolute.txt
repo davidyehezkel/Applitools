@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Applitools.exe.config
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Applitools.exe
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Applitools.pdb
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\CssParser.dll
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Eyes.Sdk.DotNet.dll
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Eyes.Selenium.DotNet.dll
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\WebDriver.dll
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Eyes.Sdk.DotNet.xml
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\source\repos\Applitools\Applitools\bin\Debug\WebDriver.xml
+C:\Users\david\source\repos\Applitools\Applitools\obj\Debug\Applitools.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Applitools\Applitools\obj\Debug\Applitools.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Applitools\Applitools\obj\Debug\Applitools.csproj.CopyComplete
+C:\Users\david\source\repos\Applitools\Applitools\obj\Debug\Applitools.exe
+C:\Users\david\source\repos\Applitools\Applitools\obj\Debug\Applitools.pdb
